@@ -77,9 +77,3 @@ Compared clusters with true disease labels (ARI score).
 GridSearchCV & RandomizedSearchCV.
 Optimized Logistic Regression, Decision Tree, Random Forest, SVM.
 Selected best performing model.
-
-
-7️⃣ Model Export & Deployment
-Saved final pipeline as .pkl with preprocessing + model.
-Deployed via Streamlit web app.
-Ngrok used for external access.
