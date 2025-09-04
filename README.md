@@ -8,7 +8,8 @@ We apply a full machine learning pipeline: preprocessing, dimensionality reducti
 **⚙️ Installation**
 
 **Clone this repo:**
-          git clone https://github.com/<YourUsername>/Heart-Disease-ML-Project.git
+
+          git clone https://github.com/EmanElkalawy/Heart-Disease-ML-Project.git
 
           cd Heart-Disease-ML-Project
 
