@@ -1,5 +1,5 @@
 **Heart Disease Prediction ML Project**
-📌 **Overview**
+**📌 Overview**
 
 This project predicts the likelihood of heart disease using the UCI Heart Disease Dataset.
 We apply a full machine learning pipeline: preprocessing, dimensionality reduction, feature selection, supervised & unsupervised models, hyperparameter tuning, and model deployment with Streamlit + Ngrok.
