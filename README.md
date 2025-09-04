@@ -10,7 +10,7 @@ We apply a full machine learning pipeline: preprocessing, dimensionality reducti
 **Clone this repo:**
 git clone https://github.com/<YourUsername>/Heart-Disease-ML-Project.git
 
-cd Heart-Disease-ML-Project
+          cd Heart-Disease-ML-Project
 
 **Create a virtual environment & install dependencies:**
 
@@ -82,21 +82,3 @@ Selected best performing model.
 Saved final pipeline as .pkl with preprocessing + model.
 Deployed via Streamlit web app.
 Ngrok used for external access.
-
-**📈 Results**
-
-Best model: Random Forest (tuned)
-
-Metrics (example — replace with your results):
-
-Model	Accuracy	Precision	Recall	F1	AUC
-
-Logistic Regression	0.84	0.85	0.80	0.83	0.90
-
-Decision Tree	0.82	0.81	0.79	0.80	0.85
-
-Random Forest	0.87	0.88	0.85	0.86	0.92
-
-SVM	0.85	0.86	0.82	0.84	0.89
-
-📌 See results/evaluation_metrics.txt for full metrics.
