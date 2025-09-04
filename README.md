@@ -1,26 +1,32 @@
 **Heart Disease Prediction ML Project**
 
 **📌 Overview**
+
 This project predicts the likelihood of heart disease using the UCI Heart Disease Dataset.
 We apply a full machine learning pipeline: preprocessing, dimensionality reduction, feature selection, supervised & unsupervised models, hyperparameter tuning, and model deployment with Streamlit + Ngrok.
 
 **⚙️ Installation**
+
 **Clone this repo:**
 git clone https://github.com/<YourUsername>/Heart-Disease-ML-Project.git
+
 cd Heart-Disease-ML-Project
 
 **Create a virtual environment & install dependencies:**
+
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 **📊 Dataset**
+
 Source: UCI Heart Disease Dataset
 Features: 13 predictors (age, sex, chest pain type, cholesterol, etc.)
 Target: num → binary (0 = healthy, 1 = heart disease)
 
 **🧪 Methodology**
+
 1️⃣ Data Preprocessing
 Handled missing values (median for numeric, mode for categorical).
 Encoded categorical features (One-Hot Encoding).
